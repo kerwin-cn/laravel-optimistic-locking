@@ -5,7 +5,7 @@ Adds optimistic locking feature to Eloquent models.
 
 ## Installation 
 ```bash
-composer require reshadman/laravel-optimistic-locking
+composer require kerwin-cn/laravel-optimistic-locking
 ```
 
 > This package supports Laravel 5.5.*,  5.6.*, 5.7.*, 5.8.*, and 6.* .
